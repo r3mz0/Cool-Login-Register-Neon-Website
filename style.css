@@ -60,7 +60,7 @@ section::before {
 }
 
 .prsection span:hover {
-	background: #fbf8fd;
+	background: #f8f7f7b3;
 	transition: 0s;
 }
 
@@ -78,7 +78,7 @@ section span {
 	display: block;
 	width: calc(6.25vw - 2px);
 	height: calc(6.25vw - 2px);
-	background: rgba(0, 0, 0, 0.8);
+	background: rgba(0, 0, 0, 2);
 	z-index: 2;
 	transition: 1.5s;
 }
